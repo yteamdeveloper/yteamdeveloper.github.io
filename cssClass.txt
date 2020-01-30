@@ -1,0 +1,17 @@
+nav.navbar.navbar-expand-lg.navbar-light>.container>div#navbarNavAltMarkup>.navbar-nav.text-capitalize.ml-auto>a.nav-item.nav-link
+
+
+nav.navbar.navbar-expand-lg.navbar-light.sticky-top.on-scroll>.container>a.navbar-brand>img.img-fluid
+
+
+nav.navbar.navbar-expand-lg.navbar-light.sticky-top>.container>div#navbarNavAltMarkup>.menu-regalindo-nav-menu-container.ml-auto>ul#menu-regalindo-nav-menu>li.menu-item>a.nav-item.nav-link
+
+
+footer.footer.py-3>.container.text-center>.row>.col-lg>nav.navbar.navbar-expand-lg.navbar-light.on-scroll>.container>.menu-regalindo-nav-menu-container.ml-auto>ul#menu-regalindo-nav-menu-1>li.menu-item>a
+
+
+nav.navbar.navbar-expand-lg.navbar-light.on-scroll>.container>.menu-regalindo-nav-menu-container.ml-auto>ul#menu-regalindo-nav-menu-1>li.menu-item>a
+
+
+
+nav.navbar.navbar-expand-lg.navbar-light.sticky-top.on-scroll>.container>div#navbarNavAltMarkup>.menu-regalindo-nav-menu-container
